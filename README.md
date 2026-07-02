@@ -6,11 +6,18 @@ Biblioteca de **snippets para secciones en los cursos** en el Campus Huella de C
 ## Contenido
 
 - **Unos ejemplos en la carpeta Snippets**.
-Esta seccion tendrá mas informaccion cuando mas cosas están subidas.
+Los snippets estan incrustados en as secciones del curso `Alan - Testing Course3`
+**https://www.campushuelladecarbono.org/course/view.php?id=51**
 
 ## Estructura
 ```text
-1_Plan_Personal/                Snippet basado en pagina web Plan Personal
+Snippets                        
+  -- 1_Plan_Personal/                Snippet basado en pagina web Plan Personal
+  -- 2_Miteco         
+  -- 3_AntesDeEmpezar
+  -- 4_AHC-Kit
+  -- 5_Simple_Paragraph
+  -- 6_PLan-compromisoPersonal
 ```
 
 ## Cómo usarla en Moodle
