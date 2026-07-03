@@ -1,0 +1,42 @@
+/* These are the CSS variables that are either currenty defined on the main AHC website or that have been directly copied from the styling document AHC - Guia de Marca */
+
+root {
+--ahc-bg:#f6fbf7;
+--ahc-blue-soft: #EEF7FA;
+--ahc-border: #DDE8DA;
+--ahc-border:#d8ead8;
+--ahc-card:#ffffff;
+--ahc-green-2:#2dbb57;
+--ahc-green-dark: #2F6F35;
+--ahc-green-dark:#245b2b;
+--ahc-green-soft: #EAF5E8;
+--ahc-green-soft:#eaf7ea;
+--ahc-green:#4F9447;
+--ahc-lime: #DFF2C2;
+--ahc-lime: #DFF2C2;
+--ahc-muted: #5F6F61;
+--ahc-muted:#587060;
+--ahc-radius-lg: 28px;
+--ahc-radius-lg:34px;
+--ahc-radius-md: 18px;
+--ahc-radius-md: 18px;
+--ahc-radius-md: 18px;
+--ahc-radius:24px;
+--ahc-shadow: 0 18px 45px rgba(36, 48, 36, 0.10);
+--ahc-text: #243024;
+--ahc-text:#17301d;
+--ahc-white: #FFFFFF;
+--border-color: #e9ecef;
+--brand-accent: #81c784;
+--brand-green-hover: #1b5e20;
+--brand-green: #2e7d32;
+--dark-text: #2c3e50;
+--enlaces:#a5c6a4;
+--highlight-gray: #f5f5f5;
+--light-gray: #f8f9fa;
+--muted-text: #7f8c8d;
+--subtitulos:#4f9447;
+--textos:#222a1a;
+--titulos:#537358;
+--white:#ffffff;
+}

@@ -592,3 +592,8 @@
       min-height: 760px;
     }
   }
+
+
+  .quote-container {
+    quotes:"<<" ">>";
+  }
